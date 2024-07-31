@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://6o7awyc8tyv1"]
+
+[ext_resource type="Script" path="res://InteractiveLight/LightParts/Raycasts/ForAreas/light_for_areas.gd" id="1_kciai"]
+
+[node name="LightForAreas" type="RayCast2D"]
+script = ExtResource("1_kciai")

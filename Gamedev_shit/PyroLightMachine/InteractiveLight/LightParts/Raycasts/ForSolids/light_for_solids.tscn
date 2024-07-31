@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bampsnem1f3ts"]
+
+[ext_resource type="Script" path="res://InteractiveLight/LightParts/Raycasts/ForSolids/light_for_solids.gd" id="1_huxna"]
+
+[node name="LightForSolids" type="RayCast2D"]
+script = ExtResource("1_huxna")
