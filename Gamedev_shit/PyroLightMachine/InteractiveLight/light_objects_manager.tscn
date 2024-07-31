@@ -1,7 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://dmjnnccnbi3dp"]
-
-[ext_resource type="Script" path="res://InteractiveLight/light_objects_manager.gd" id="1_ttfpm"]
-
-[node name="LightObjectsManager" type="Node"]
-script = ExtResource("1_ttfpm")
-burst_scale = 5
